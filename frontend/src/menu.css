@@ -1,0 +1,16 @@
+.top_menu {
+  width: 1440px;
+  height: 65px;
+  margin: 150px 0 809px;
+  padding: 13px 671px 18px 90px;
+  background-color: #00a7ed;
+  font-family: NotoSansKR;
+}
+
+.top_menu ul {height: 48px; margin: 0 auto; padding:13px 90px 18px 40px;}
+.top_menu li {display: inline; margin-left: 90px; color:white;}
+.division{color: #7dafd8;}
+.top_menu a:link {color: white; text-decoration:none !important}
+.top_menu a:hover {color: white; text-decoration:none !important}
+.top_menu a:visited {color: white; text-decoration:none !important}
+.top_menu a:active {color: white; text-decoration:none !important}

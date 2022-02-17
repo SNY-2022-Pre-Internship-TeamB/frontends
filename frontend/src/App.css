@@ -1,0 +1,139 @@
+.title {
+  width: 1440px;
+  height: 150px;
+  padding: 16px 1023px 18px 0;
+  background-color: #fff;
+}
+
+
+.top_menu {
+  width: 100%;
+  height: 52px;
+  margin: 0px 0 0px 0;
+  padding: 13px 150px 18px 90px;
+  background-color: #00a7ed;
+  font-family: NotoSansKR;
+  font-size:24px;
+}
+
+.top_menu a:link {color: #fff; text-decoration:none !important}
+.top_menu a:hover {color: #fff; text-decoration:none !important}
+.top_menu a:visited {color: #fff; text-decoration:none !important}
+.top_menu a:active {color: #fff; text-decoration:none !important}
+
+.top_menu ul {height: 48px; margin: 0 auto; padding:13px 90px 18px 40px;}
+.top_menu li {display: inline; margin-left: 90px; color:#fff;}
+.top_menu Button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  
+  background: var(--button-bg-color);
+  color: var(--button-color);
+  
+  margin: 0;
+  padding: 0.5rem 1rem;
+  
+  font-family: 'Noto Sans KR';
+  font-size: 1.2rem;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 4px;
+  display: inline-block;
+  width: auto;
+  cursor: pointer;
+  transition: 0.5s; }
+
+
+
+.lnb{
+  float:right;
+  width: 326px;
+  height: 59.125rem;
+  margin: 0px 0 0 0;
+  padding: 41px 0 76px;
+  background-color: #f8f8f8;
+}
+
+
+.iframebox2{
+  position: relative;
+  padding-bottom:100%;
+}
+
+
+iframe{
+  width: 326px;
+  height: 500px;
+  background-color: #fff;
+}
+
+.main{
+  word-wrap: break-word;
+  text-align: center;
+  font-size: 24px;
+}
+
+
+.button{
+position:fixed;
+bottom:45px;
+right:24px;
+width: 60px;
+height: 60px;
+line-height: 60px;
+border-radius: 50%;
+background-color: #009688;
+vertical-align:middle;
+box-shadow:0 2px 2px 0 rgba(0,0,0,0.6),0 1px 5px 0 rgba(0,0,0,0.6),0 3px 1px -2px rgba(0,0,0,0.2);
+  cursor: pointer;
+  font-size: 0px;
+  
+}
+
+.headphone{
+  padding: 7px;
+  width: 30px;
+  height: 30px;
+}
+
+.real_chatbot{
+  position:absolute;
+  right:150px;
+  bottom:70px; 
+  transition: box-shadow0.25s;
+  padding:12px; 
+  border-radius:2px;
+  background-color:#fff;
+  box-shadow:0 2px 2px 0 rgba(0,0,0,0.14),0 1px 5px 0 rgba(0,0,0,0.12),0 3px 1px -2px rgba(0,0,0,0.2);
+  color:#FFF;
+  position:fixed;
+}
+
+
+
+.chatbot{
+  background-color: #fff;
+  display:block;
+
+  
+}
+
+.mains{
+  width: 98rem;
+  height: 59.125rem;
+  margin: 0 0 0 0;
+  padding: 0.313rem 0 7.438rem;
+}
+@font-face {
+  font-family: 'NotoSerifKR',sans-serif;
+  src: url('./fonts/NotoSerifKR-Medium.otf') format('truetype');
+}
+
+
+
+
+
+
